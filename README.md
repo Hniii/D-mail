@@ -1,13 +1,16 @@
-# Sample Hardhat Project
+# D-Mail: Messaging Dapp 
+This project is our team's solution for an academic project.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+The design of our application is based on a thorough analysis of the required needs and functionalities.
 
-Try running some of the following tasks:
+- We have emphasized the management and creation of user accounts, ensuring the security of private keys through the use of MetaMask and seed phrases.
+  
+- User authentication is done securely using a password and temporarily storing the private key in session storage.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+- Message management provides a comprehensive range of features, including scheduled sending, drafts, direct replies, and message sharing.
+  
+-  File management is simplified through the use of the decentralized IPFS network, ensuring permanent file availability and security through encryption and the use of Pinata's pinning service.
+  
+- Our application offers a secure, reliable, and user-friendly messaging experience, meeting the needs of modern communication.
+
+  ![Alt Text](/main/inboxInterfacechat.png)
