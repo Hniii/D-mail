@@ -1,0 +1,36 @@
+.popup {
+    display: block;
+    position: fixed;
+    z-index: 1;
+    left: 3cm;
+    top: 0;
+    width: 100%;
+    height: 100%;
+
+  }
+  
+  .view-content {
+    background-color: #d1d1d1;
+    margin: 10% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 1000px
+  }
+  
+  .close {
+    color: red;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+
+  .share-content {
+    background-color: #d1d1d1;
+    margin: 10% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 1000px;
+  }
+  
