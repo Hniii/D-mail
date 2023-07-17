@@ -13,4 +13,7 @@ The design of our application is based on a thorough analysis of the required ne
   
 - Our application offers a secure, reliable, and user-friendly messaging experience, meeting the needs of modern communication.
 
-  ![Alt Text](/main/inboxInterfacechat.png)
+  ![Alt Text](/inboxInterfacechat.png)
+   ![Alt Text](/arch.png)
+   ![Alt Text](/message_encrypt.png)
+   ![Alt Text](/send message to group.png)
