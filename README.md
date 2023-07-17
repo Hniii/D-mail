@@ -16,4 +16,4 @@ The design of our application is based on a thorough analysis of the required ne
   ![Alt Text](/inboxInterfacechat.png)
    ![Alt Text](/arch.png)
    ![Alt Text](/message_encrypt.png)
-   ![Alt Text](/send message to group.png)
+   ![Alt Text](send message to group.png)
